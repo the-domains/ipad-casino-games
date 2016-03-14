@@ -1,0 +1,28 @@
+name: iPad Casino Games
+favicon: null
+layout_spectrum: 0.6522279537748545
+typography_spectrum: 0.659884937107563
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8445320429746062
+  lightness: 0.024950299877673388
+  saturation: 0.04695536312647164
+  rhythmicContrast: 0.538709934335202
+purpose: []
